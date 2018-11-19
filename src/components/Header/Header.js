@@ -7,3 +7,4 @@ const Header = () => (
         <img src={logoUrl} alt="Tesla" />
     </div>
 )
+export default Header;
